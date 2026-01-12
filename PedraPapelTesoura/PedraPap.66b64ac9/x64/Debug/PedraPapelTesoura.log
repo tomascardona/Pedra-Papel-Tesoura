@@ -1,0 +1,3 @@
+﻿  PedraPapelTesoura.cpp
+C:\Users\tomas\source\repos\PedraPapelTesoura\PedraPapelTesoura.cpp(11,15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  PedraPapelTesoura.vcxproj -> C:\Users\tomas\source\repos\PedraPapelTesoura\x64\Debug\PedraPapelTesoura.exe
